@@ -95,7 +95,7 @@ Tabel tersebut akan berisi *id, username dan password*. Kolom *id* akan menjadi 
 > Result :
 
 
-https://github.com/adeliadhea06/Lab12Web/assets/115794875/40cadc2c-8c98-413f-89a4-d302d5657c5f
+https://github.com/adeliadhea06/Lab12Web/assets/115794875/2f1fcaba-6213-4df4-bc87-f9b4b998f926
 
 
 ## Selesai, Terima Kasih
